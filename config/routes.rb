@@ -1,4 +1,14 @@
 Cityparkconsulting::Application.routes.draw do
+  get "landing/detail"
+
+  get "landing/fullwidth"
+
+  get "landing/left_sidebar"
+
+  get "landing/portfolio"
+
+  get "landing/right_sidebar"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

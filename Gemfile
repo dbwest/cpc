@@ -13,6 +13,7 @@ gem 'sass-rails',   '~> 3.2.3'
 gem 'bootstrap-sass', '~> 2.0.3'
 gem 'bootstrap_helper'
 gem 'jquery-ui-rails'
+gem 'themes_for_rails'
 
 
 
