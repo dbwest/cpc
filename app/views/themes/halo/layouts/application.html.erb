@@ -5,6 +5,7 @@
   <%= stylesheet_link_tag    "application", :media => "all" %>
   <%= javascript_include_tag "application" %>
   <%= csrf_meta_tags %>
+	<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rationale">
 </head>
 <body>
 <header>
@@ -179,6 +180,12 @@
 			</div>
 		</div>
 	</div>
+
+	<!-- Styles for the skin that only load for Internet Explorer -->
+	<!--[if lte IE 8]>
+	<link rel="stylesheet" type="text/css" href="js/slidedeck/slidedeck.skin.ie.css" media="screen,handheld" />
+	<![endif]-->
+	<!-- Include the SlideDeck jQuery script. -->
 
 </body>
 </html>

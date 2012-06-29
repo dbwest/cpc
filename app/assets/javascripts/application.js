@@ -13,5 +13,4 @@
 //= require jquery
 //= require jquery_ujs
 //= require_tree .
-//= require jquery.ui.core
-//= require jquery.ui.slider
+//= require_tree ../themes/halo/javascripts

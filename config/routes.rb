@@ -10,6 +10,8 @@ Cityparkconsulting::Application.routes.draw do
 
   get "landing/right_sidebar"
 
+  themes_for_rails 
+
   # config/routes.rb
 
   
