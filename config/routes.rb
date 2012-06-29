@@ -1,4 +1,5 @@
 Cityparkconsulting::Application.routes.draw do
+
   get "landing/detail"
 
   get "landing/fullwidth"
@@ -8,6 +9,11 @@ Cityparkconsulting::Application.routes.draw do
   get "landing/portfolio"
 
   get "landing/right_sidebar"
+
+  # config/routes.rb
+
+  
+
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
