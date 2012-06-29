@@ -14,6 +14,7 @@ gem 'bootstrap-sass', '~> 2.0.3'
 gem 'bootstrap_helper'
 gem 'jquery-ui-rails'
 gem 'themes_for_rails'
+gem 'thin'
 
 
 
@@ -26,10 +27,6 @@ group :assets do
   # gem 'therubyracer', :platforms => :ruby
 
   gem 'uglifier', '>= 1.0.3'
-end
-
-group :production do
-	gem 'thin'
 end
 
 
