@@ -2,7 +2,7 @@
  * The following copyright notice may not be removed under any circumstances.
  * 
  * Copyright:
- * Digitized data © 2007 Ascender Corporation. All rights reserved.
+ * Digitized data Â© 2007 Ascender Corporation. All rights reserved.
  * 
  * Trademark:
  * Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and
@@ -25,7 +25,7 @@ Cufon.registerFont({"w":200,"face":{"font-family":"Liberation Sans","font-weight
  * The following copyright notice may not be removed under any circumstances.
  * 
  * Copyright:
- * Digitized data © 2007 Ascender Corporation. All rights reserved.
+ * Digitized data Â© 2007 Ascender Corporation. All rights reserved.
  * 
  * Trademark:
  * Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and
@@ -48,7 +48,7 @@ Cufon.registerFont({"w":200,"face":{"font-family":"Liberation Sans","font-weight
  * The following copyright notice may not be removed under any circumstances.
  * 
  * Copyright:
- * Digitized data © 2007 Ascender Corporation. All rights reserved.
+ * Digitized data Â© 2007 Ascender Corporation. All rights reserved.
  * 
  * Trademark:
  * Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and
@@ -71,7 +71,7 @@ Cufon.registerFont({"w":200,"face":{"font-family":"Liberation Sans","font-weight
  * The following copyright notice may not be removed under any circumstances.
  * 
  * Copyright:
- * Digitized data © 2007 Ascender Corporation. All rights reserved.
+ * Digitized data Â© 2007 Ascender Corporation. All rights reserved.
  * 
  * Trademark:
  * Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and
