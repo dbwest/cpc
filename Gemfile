@@ -6,11 +6,12 @@ gem 'rails', '3.2.6'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'pg'
-gem 'sass-rails',   '~> 3.2.3'
 gem 'bootstrap-sass', '~> 2.0.3'
 # gem 'bootswatch-rails'
 gem 'nokogiri'
 gem 'thin'
+gem 'sass-rails',   '~> 3.2.3'
+gem 'bootstrap-sass', '~> 2.0.3'
 gem 'bootstrap_helper'
 
 
@@ -18,6 +19,7 @@ gem 'bootstrap_helper'
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
+  gem 'jquery-ui-rails'
   gem 'sass-rails',   '~> 3.2.3'
   gem 'coffee-rails', '~> 3.2.1'
 

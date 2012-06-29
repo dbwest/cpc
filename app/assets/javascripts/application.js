@@ -13,3 +13,8 @@
 //= require jquery
 //= require jquery_ujs
 //= require_tree .
+//= require_directory ./itunes_slider
+//= require_directory ./slidedeck
+//= require_directory ./slideviewPro
+//= require jquery.ui.core
+//= require jquery.ui.slider
