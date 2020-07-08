@@ -12,7 +12,7 @@ gem 'nokogiri'
 gem 'sass-rails',   '~> 3.2.3'
 gem 'bootstrap-sass', '~> 2.0.3'
 gem 'bootstrap_helper'
-gem 'jquery-ui-rails'
+gem 'jquery-ui-rails', '>= 1.0.0'
 gem 'themes_for_rails'
 gem 'thin'
 
@@ -30,7 +30,7 @@ group :assets do
 end
 
 
-gem 'jquery-rails'
+gem 'jquery-rails', '>= 3.1.3'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
